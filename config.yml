@@ -1,8 +1,8 @@
 # Metadata for your course
 
-title: # a name for your Learning Lab course
-tagline: # a short description for your Learning Lab course, displayed on the course catalog
-description: # a longer description for your Learning Lab course, displayed on the course's landing page
+title: Python Programming
+tagline: A quick introduction to Python(3), aimed for experienced software developers.
+description: This course runs through the basics of Python 3.7 (syntax, concepts and common patterns & mistakes), escorted by code as homework.
 
 # Repository setup
 # The following section template information for the repository
